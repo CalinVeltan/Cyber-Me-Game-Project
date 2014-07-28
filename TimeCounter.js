@@ -10,7 +10,7 @@ arr[2]= new Image();
 arr[2].src = "image3.png";
 
 
-
+// function that counts the remain time until the habbit should be done.
 function takeTime(){
 setTimeout(function(){change();},document.getElementById("formTime").value*3600000);
 }
