@@ -1,0 +1,43 @@
+body{
+	background-color: #FFF5EE;
+	
+}
+
+
+#logo{
+	margin-top:15%;
+	text-align:center;
+	
+}
+
+#formLogIn{
+text-align: center;
+margin-top: 5%;
+}
+
+.inputform {
+width: 40%;
+text-align: center;
+background-color: white;
+padding-bottom: 1%;
+margin-bottom: 2%;
+border-top:none;
+border-left:none;
+font-size: 200%;
+
+border-spacing: 0;
+}
+
+#LogIn{
+	background-color: #af543e ;
+width:40%;
+height: 10%;	
+color: #FFFFFF;
+padding: 1%;
+text-align: center;
+margin-bottom: 5%;
+border-top:none;
+border-left:none;
+border-right:none;
+border-bottom:none;
+}
